@@ -1,0 +1,28 @@
+.parent{
+    height: 300px;
+    width: 300px;
+    background-color: bisque;
+    position: absolute;
+    margin-top:-15px;
+    
+
+}
+img{
+    height: 500px;
+    width: 900px;
+    background-color: aqua;
+}
+.main{
+    margin-top: 30px;
+    height: 350px;
+    width: 460px;
+    position: relative;
+    background-color: rgba(226, 157, 38, 0.311);
+    z-index: 10;
+    color: white;
+    text-align: center;
+    padding-left: 20px;
+    padding-top: 20px;
+    font-size: 50px;
+    margin-left: 180px;
+}
